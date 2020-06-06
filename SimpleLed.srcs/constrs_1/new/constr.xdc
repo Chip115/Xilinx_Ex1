@@ -1,0 +1,12 @@
+create_clock -period 12.500 -name clk -waveform {0.000 6.250} [get_ports clk]
+set_property PACKAGE_PIN F14 [get_ports clk]
+
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+set_property PACKAGE_PIN U12 [get_ports {leds[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {leds[0]}]
+set_property PACKAGE_PIN U11 [get_ports {leds[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {leds[1]}]
+set_property PACKAGE_PIN T15 [get_ports {leds[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {leds[2]}]
+set_property PACKAGE_PIN R11 [get_ports {leds[3]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {leds[3]}]

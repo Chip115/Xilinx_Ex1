@@ -1,0 +1,15 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (win64) Build 2258646 Thu Jun 14 20:03:12 MDT 2018
+| Date         : Sat Dec 28 16:41:25 2019
+| Host         : Admin-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : report_bus_skew -warn_on_violation -file blinking_leds_bus_skew_routed.rpt -pb blinking_leds_bus_skew_routed.pb -rpx blinking_leds_bus_skew_routed.rpx
+| Design       : blinking_leds
+| Device       : 7s50-csga324
+| Speed File   : -2  PRODUCTION 1.22 2018-03-21
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

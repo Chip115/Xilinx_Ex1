@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Dec 28 16:39:30 2019
+# Process ID: 7936
+# Current directory: C:/Users/Admin/Desktop/Ex1/SimpleLed/SimpleLed.runs/synth_1
+# Command line: vivado.exe -log blinking_leds.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blinking_leds.tcl
+# Log file: C:/Users/Admin/Desktop/Ex1/SimpleLed/SimpleLed.runs/synth_1/blinking_leds.vds
+# Journal file: C:/Users/Admin/Desktop/Ex1/SimpleLed/SimpleLed.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source blinking_leds.tcl -notrace

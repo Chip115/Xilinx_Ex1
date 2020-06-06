@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Jun  7 06:47:03 2020
+# Process ID: 5588
+# Current directory: E:/YandexDisk/YandexDisk/Youtube/Vivado/Ex1/Ex1_soft/SimpleLed
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6320 E:\YandexDisk\YandexDisk\Youtube\Vivado\Ex1\Ex1_soft\SimpleLed\SimpleLed.xpr
+# Log file: E:/YandexDisk/YandexDisk/Youtube/Vivado/Ex1/Ex1_soft/SimpleLed/vivado.log
+# Journal file: E:/YandexDisk/YandexDisk/Youtube/Vivado/Ex1/Ex1_soft/SimpleLed\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/YandexDisk/YandexDisk/Youtube/Vivado/Ex1/Ex1_soft/SimpleLed/SimpleLed.xpr
+update_compile_order -fileset sources_1
